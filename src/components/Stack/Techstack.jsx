@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiIcons, BsIcons, RiIcons, DiIcons, FaIcons } from "../../lib/IconMap";
+import { SiIcons, BsIcons, RiIcons, DiIcons, FaIcons } from "../../lib/iconMap";
 import { getSystemResources } from "../../lib/sanity/sanityService";
 
 function Techstack() {
